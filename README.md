@@ -1,22 +1,21 @@
-# Forever Young — Premium Clinic Website
+# Forever Young — Ultra Premium Website
 
-GitHub/Vercel-ready static website for Forever Young Skin & Hair Clinic, Selaqui, Dehradun.
+Static, GitHub/Vercel-ready clinic website.
 
-## Theme
-Restored premium **deep wine + ivory** visual theme with subtle gold accents.
+## Deploy on Vercel
+1. Upload all files in this folder to a GitHub repository.
+2. Import the repository in Vercel.
+3. Framework preset: **Other** / static.
+4. No build command required.
+5. Deploy.
 
-## Included
-- Premium responsive landing page
-- PRP, Hair & Skin sections with visuals
-- Review carousel ready for verified client reviews
-- Clickable WhatsApp, Call and Instagram CTAs
-- Mobile navigation
-- FAQ accordion
-- Basic local SEO + MedicalClinic schema
-- Vercel configuration
+## Before public launch
+- Replace the three review placeholders with verified, clinic-approved patient reviews.
+- Confirm clinic address, timings, consultation details and phone number.
+- Replace illustrative images with clinic-owned photography if available.
+- Add any clinic-approved treatment detail only after the medical team confirms wording.
 
-## Deploy
-Upload all files in this folder to the root of a GitHub repository and import that repository in Vercel.
-
-## Important
-Replace review placeholders only with genuine, approved client/patient reviews before public launch.
+## Main contact currently used
+WhatsApp / Call: +91 95799 43283
+Instagram: @foreveryoung_2k25
+Location copy: Ghale Complex, 1st Floor, Selaqui, Dehradun
